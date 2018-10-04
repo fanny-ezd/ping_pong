@@ -7,6 +7,7 @@
 //#include "fonts.h"
 
 
+void clean();
 void test_oled_2();
 void oled_init();
 void test_oled();
