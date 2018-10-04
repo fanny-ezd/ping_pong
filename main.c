@@ -14,10 +14,11 @@ void main()
    en_eMem();
    joystick test;
  oled_init();
+ clean();
 while (1){
 
-   test_oled_2();
-
+   //test_oled_2();
+   clean();
 }
 
 
